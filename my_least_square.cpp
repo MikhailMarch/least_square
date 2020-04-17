@@ -3,8 +3,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cstdio>
-#include <string>
-#include <cstring>
+
 
 #ifdef WIN32
 #define GNUPLUT_NAME "C:\\Games\\gnuplot\\bin\\gnuplot -persist"
